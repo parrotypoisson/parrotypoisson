@@ -1,5 +1,10 @@
 ### Kewl Projects
-- 📋 Datasets
+- 📊 Datasets
 - ♈ zodiac (Largest collection of horoscopes)
 - 🌲 Forecast Foraging (Roblox game)
 - 🎯 Darts Advisor (Alexa skill for darts strategy)
+
+### Tools
+- 💻 Neovim
+- 📝 Heptabase
+- 🎨 diagrams.net/Lucidchart
