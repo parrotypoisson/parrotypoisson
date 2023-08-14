@@ -9,4 +9,4 @@
 ### Tools
 - 💻 Neovim (LunarVim)
 - 📝 Heptabase
-- 🎨 diagrams.net/draw.io
+- 🎨 diagrams.net/draw.io & Excalidraw
