@@ -7,6 +7,6 @@
 
 
 ### Tools
-- 💻 Neovim (LunarVim)
+- 💻 JetBrains & Windsurf
 - 📝 Heptabase
 - 🎨 diagrams.net/draw.io & Excalidraw
